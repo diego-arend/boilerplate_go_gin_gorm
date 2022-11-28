@@ -5,7 +5,7 @@ Boilerplate WebApi em Golang com frameworks GIN-GONIC para tratamento de request
 - Criado o arquivo Readme.md com informações que faciliatam o uso do boilerplate.
 
 # Em Desenvolvimento
-- Midleware para autenticação de usuário com JWT obdecendo as regras de GLPD.
+- Midleware para autenticação de usuário com JWT obedecendo as regras de GLPD.
 # Disclaimer
 
 Este boilerplate está em constante desenvolvimento.
