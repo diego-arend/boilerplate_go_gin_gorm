@@ -6,7 +6,7 @@ Boilerplate WebApi em Golang com frameworks GIN-GONIC para tratamento de request
 
 # Em Desenvolvimento
 - Midleware para autenticação de usuário com JWT obedecendo as regras de GLPD.
-- Arquivo coker-compose com configurações dentro do projeto para rodar banco de dados com Mariadb. Até o momento é necessário rodar o banco separadamente ao projeto.
+- Arquivo doker-compose com configurações dentro do projeto para rodar banco de dado Mariadb. Até o momento é necessário rodar o banco separadamente ao projeto.
 # Disclaimer
 
 Este boilerplate está em constante desenvolvimento.
