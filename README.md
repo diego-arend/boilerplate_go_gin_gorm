@@ -19,7 +19,7 @@ Portanto é altamente recomendável que sente-se confortávelmente em sua cadeir
 ## Comandos
 
 - Após clonar o repositório digite o comando `go mod tidy` para instalar as depências necessárias.
-- Para iniciar o projeto digite `go run main.go`
+- Para executar o servidor digite `go run main.go`
 
 # Detalhes de arquitetura.
 
