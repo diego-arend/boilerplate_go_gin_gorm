@@ -1,5 +1,5 @@
 # Descrição
-Boilerplate WebApi em Golang com frameworks GIN-GONIC para tratamento de requests e GORM para comunicação com banco de dados e midleware de autenticação.
+Boilerplate WebApi em Golang com frameworks GIN-GONIC para tratamento de requests, GORM para comunicação com banco de dados e midleware de autenticação.
 
 # Ultimas Atualizações
 - Criado o arquivo Readme.md com informações que faciliatam o uso do boilerplate.
