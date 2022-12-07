@@ -7,7 +7,7 @@ import (
 
 func main() {
 	database.StartDB()
-	server := server.NewServer()
+	servers := server.NewServer()
 
-	server.Run()
+	servers.Run()
 }
